@@ -1,5 +1,5 @@
 # Piano Helper
-**Build with help of AI**
+**Build with help of AI**. 
 An installable web app (PWA) for learning piano:
 
 - **Learn:** five short interactive chapters covering the keyboard pattern, note names and octaves, a staff ↔ keys explorer (tap a key, tap the staff or play your piano), sharps/flats/naturals, and note lengths and rhythm.
